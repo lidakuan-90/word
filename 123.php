@@ -7,3 +7,7 @@
 	echo 'sdfsdfsd华盛顿';
 
 	echo '好久考试的方式';
+
+	echo '比上次要好';
+
+	echo '上次11:25';
