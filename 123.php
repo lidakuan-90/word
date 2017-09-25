@@ -5,3 +5,5 @@
 	echo 'asdfsdfgs';
 
 	echo 'sdfsdfsd华盛顿';
+
+	echo '好久考试的方式';
