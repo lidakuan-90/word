@@ -1,2 +1,3 @@
 <?php
-	echo 'sdf;asdfasdfsadfsdf'
+
+	echo '我们是中国国人';
